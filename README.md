@@ -24,7 +24,7 @@ This repository contains code and associated data used to generate the results o
    ```matlab
    SQA.m
    ```
-   to use simualted quantum annealing.
+   to use simulated quantum annealing.
 
 4. The codes will save the lowest energy among all the replicas at the end of annealing in a .mat file.
 
