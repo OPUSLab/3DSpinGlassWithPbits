@@ -33,8 +33,8 @@ This repository contains code and associated data used to generate the results o
 
 You can modify the following parameters in the scripts (APT.m or SQA.m):
 
-- `logical`: 1 for logical instances and 0 for embedded instances (emebedded instances are not included in this repository)
-- `instanceSize`: Size of the instances (8, 10, 12, 15 and 16 can be used)
+- `logical`: 1 for logical instances and 0 for embedded instances
+- `instanceSize`: Size of the instances (8, 10, 12, 15 and 16 can be used for logical instances, 15 can be used for embedded instances)
 - `instanceID`: Which instance to run (0 to 299)
 - `run_per_instance`: Number of independent experiments to run per instance (50 is used in this work)
 - `total_real_num_sweeps`: Total number of sweeps (MCS) to be used
@@ -45,6 +45,11 @@ You can modify the following parameters in the scripts (APT.m or SQA.m):
 - `num_replicas`: Number of Trotter replicas to be used (only used in SQA.m)
 - `GammaX`: Magnitude of the transverse field (only used in SQA.m)
 - `betaAll`: Inverse temperature to number of replicas ratio (only used in SQA.m)
+
+
+## ⚙️ Plotting
+
+The repository also contains processed data and python codes to generate Figures 2, 3 and 4 of the main text.
 
 ## Contributing
 

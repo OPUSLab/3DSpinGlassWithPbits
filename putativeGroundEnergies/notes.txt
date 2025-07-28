@@ -1,0 +1,5 @@
+HOW TO READ THE ENERGY:
+
+- The first column represents the instances ID
+- The second column represents the energy of the embedded instances (not used except for size 15)
+- The third column represents the energy of the logical instances
