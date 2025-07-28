@@ -1,5 +1,5 @@
 %
-% Source code for "Pushing the Boundary of Quantum Advantage in Hard Combinatorial Optimization with Probabilistic Computer"
+% Source code for "Pushing the Boundary of Quantum Advantage in Hard Combinatorial Optimization with Probabilistic Computers"
 % by Shuvro Chowdhury et al.
 %
 % Date: July 2025
