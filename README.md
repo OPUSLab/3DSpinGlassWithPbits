@@ -59,7 +59,7 @@ Contributions to improve the code or extend its functionality are welcome. Pleas
 ## Citations
 
 To cite this work, please cite the following paper: 
-https://arxiv.org/pdf/2503.10302
+Chowdhury, S., Aadit, N.A., Grimaldi, A. et al. Pushing the boundary of quantum advantage in hard combinatorial optimization with probabilistic computers. Nat Commun 16, 9193 (2025). https://doi.org/10.1038/s41467-025-64235-y
 
 ## Contact
 
